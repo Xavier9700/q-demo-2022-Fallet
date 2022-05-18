@@ -9,7 +9,7 @@
       ></plat>
 
     </div>
-  </q-page>
+  </q-page>n
 </template>
 
 <script>
@@ -44,7 +44,7 @@ export default {
         {
           id: 54,
           image: 'https://i.imgur.com/xAuhNVg.jpg',
-          nom: 'BBQ Ribs',
+          nom: 'BBQ Ris',
           description: 'Les BBQ ribs ou barbecue ribs sont des grands classiques très appréciés partout dans le monde.',
           note: 5
         }
